@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "uid": "dilgmbh",
+      "name": "Diluno GmbH",
+      "url": "https://www.diluno.com/",
+      "meta": {
+        "country": "CH",
+        "neighbors": "elgmbh"
+      }
+    },
+    {
+      "uid": "elgmbh",
+      "name": "Elastiq GmbH",
+      "url": "https://www.elastiq.ch/",
+      "meta": {
+        "country": "CH",
+        "neighbors": "dilgmbh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [{
+      "uid": "digith",
+      "name": "Digitalstation GmbH",
+      "url": "https://www.diluno.com/",
+      "meta": {
+        "country": "CH",
+        "neighbors": "elgmbh"
+      }
+    }
+  ]
+}

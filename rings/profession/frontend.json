@@ -17,6 +17,15 @@
         "country": "CH",
         "neighbors": "dilgmbh"
       }
+    },
+    {
+      "uid": "50linesofcode",
+      "name": "50 Lines of Code",
+      "url": "https://50linesofco.de",
+      "meta": {
+        "country": "CH",
+        "neighbors": "elgmbh"
+      }
     }
   ]
 }
